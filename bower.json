@@ -1,7 +1,10 @@
 {
   "name": "webkit-cssui-absolute-center",
   "description": "Webkit css ui module absolute center.",
-  "main": "dist/webkit-cssui-absolute-center.js",
+  "main": [
+    "dist/absolute-center.css",
+    "dist/absolute-center.scss"
+  ],
   "authors": [
     "afei"
   ],
