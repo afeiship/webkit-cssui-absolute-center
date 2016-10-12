@@ -1,0 +1,17 @@
+/*absolute-center Start*/
+.absolute-center-x, .absolute-center-xy, .absolute-center-y {
+  position: absolute;
+  margin: auto;
+}
+
+.absolute-center-x, .absolute-center-xy {
+  left: 0;
+  right: 0;
+}
+
+.absolute-center-xy, .absolute-center-y {
+  top: 0;
+  bottom: 0;
+}
+
+/*absolute-center End*/

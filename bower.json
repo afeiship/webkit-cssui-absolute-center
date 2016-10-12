@@ -1,0 +1,24 @@
+{
+  "name": "webkit-cssui-absolute-center",
+  "description": "Webkit css ui module absolute center.",
+  "main": "dist/webkit-cssui-absolute-center.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/webkit-cssui-absolute-center",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ]
+}
