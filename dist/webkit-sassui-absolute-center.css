@@ -1,0 +1,17 @@
+/*webkit-sassui-absolute-center Start*/
+.webkit-sassui-absolute-center-x, .webkit-sassui-absolute-center-xy, .webkit-sassui-absolute-center-y {
+  position: absolute;
+  margin: auto;
+}
+
+.webkit-sassui-absolute-center-x, .webkit-sassui-absolute-center-xy {
+  left: 0;
+  right: 0;
+}
+
+.webkit-sassui-absolute-center-xy, .webkit-sassui-absolute-center-y {
+  top: 0;
+  bottom: 0;
+}
+
+/*webkit-sassui-absolute-center End*/

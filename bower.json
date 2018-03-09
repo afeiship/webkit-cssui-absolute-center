@@ -1,9 +1,9 @@
 {
-  "name": "webkit-cssui-absolute-center",
-  "description": "Webkit css ui module absolute center.",
+  "name": "webkit-sassui-absolute-center",
+  "description": "Webkit sass ui module absolute center.",
   "main": [
-    "dist/absolute-center.css",
-    "dist/absolute-center.scss"
+    "dist/webkit-sassui-absolute-center.css",
+    "dist/webkit-sassui-absolute-center.scss"
   ],
   "authors": [
     "afei"
@@ -12,7 +12,7 @@
   "keywords": [
     "next"
   ],
-  "homepage": "https://github.com/afeiship/webkit-cssui-absolute-center",
+  "homepage": "https://github.com/afeiship/webkit-sassui-absolute-center",
   "moduleType": [
     "amd"
   ],
