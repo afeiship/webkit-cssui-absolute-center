@@ -1,5 +1,5 @@
-#webkit-cssui-absolute-center
-Webkit css ui module absolute center.
+# webkit-sassui-absolute-center
+Webkit sass ui module absolute center.
 
 
 ## usage:
