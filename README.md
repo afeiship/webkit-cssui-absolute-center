@@ -1,6 +1,8 @@
 # webkit-sassui-absolute-center
 Webkit sass ui module absolute center.
 
+## demo:
++ https://afeiship.github.io/webkit-sassui-absolute-center/
 
 ## usage:
 + webkit-sassui-absolute-center-x
