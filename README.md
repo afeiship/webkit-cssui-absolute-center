@@ -1,10 +1,15 @@
 # webkit-sassui-absolute-center
 Webkit sass ui module absolute center.
 
-## demo:
+## installation
+```shell
+npm install -S @feizheng/webkit-sassui-absolute-center
+```
+
+## demo
 + https://afeiship.github.io/webkit-sassui-absolute-center/
 
-## usage:
+## usage
 + webkit-sassui-absolute-center-x
 + webkit-sassui-absolute-center-y
 + webkit-sassui-absolute-center-xy

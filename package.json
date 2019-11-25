@@ -1,6 +1,6 @@
 {
-  "name": "webkit-sassui-absolute-center",
-  "version": "0.0.1",
+  "name": "@feizheng/webkit-sassui-absolute-center",
+  "version": "1.0.0",
   "description": "Webkit css ui module absolute center.",
   "homepage": "https://github.com/afeiship/webkit-sassui-absolute-center",
   "author": {
@@ -13,11 +13,11 @@
   },
   "main": "dist/webkit-sassui-absolute-center.scss",
   "devDependencies": {
+    "@feizheng/rake-git": "^1.2.1",
     "del": "^2.2.1",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-load-plugins": "^1.2.0",
     "gulp-rename": "^1.2.2",
-    "gulp-sass": "^2.3.2",
-    "yargs": "^4.7.1"
+    "gulp-sass": "^4.0.2"
   }
 }
