@@ -13,8 +13,8 @@
     }
 
     .box {
-      width: 200px;
-      height: 200px;
+      width: 120px;
+      height: 120px;
     }
 
     .box-x {
@@ -28,6 +28,10 @@
     .box-xy {
       background: #f60;
     }
+
+    .box[data-pretty=true]{
+      background: green;
+    }
   </style>
 </head>
 
@@ -40,6 +44,10 @@
 
   <div class="box box-y webkit-sassui-absolute-center-y">
     .box-y center;
+  </div>
+
+  <div class="box box-y webkit-sassui-absolute-center-y" data-pretty="true">
+    .box-y center pretty;
   </div>
 
 

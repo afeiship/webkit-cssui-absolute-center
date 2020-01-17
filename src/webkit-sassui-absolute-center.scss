@@ -17,6 +17,9 @@
   &-y {
     top: 0;
     bottom: 0;
+    &[data-pretty="true"] {
+      top: -25%;
+    }
   }
 }
 /*webkit-sassui-absolute-center End*/
