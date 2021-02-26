@@ -1,0 +1,46 @@
+/*wsui-absolute-center Start*/
+.wsui-absolute-center-x, .wsui-absolute-center-xy, .wsui-absolute-center-y {
+  position: absolute;
+  margin: auto;
+}
+
+.wsui-absolute-center-x, .wsui-absolute-center-xy {
+  left: 0;
+  right: 0;
+}
+
+.wsui-absolute-center-xy, .wsui-absolute-center-y {
+  top: 0;
+  bottom: 0;
+}
+
+.wsui-absolute-center-xy[data-pretty="true"], .wsui-absolute-center-y[data-pretty="true"] {
+  top: -25%;
+}
+
+/*wsui-absolute-center End*/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  width: 120px;
+  height: 120px;
+}
+
+.box-x {
+  background: #eee;
+}
+
+.box-y {
+  background: #06f;
+}
+
+.box-xy {
+  background: #f60;
+}
+
+.box[data-pretty="true"] {
+  background: green;
+}

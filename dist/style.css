@@ -1,0 +1,24 @@
+/*!
+ * name: @jswork/wsui-absolute-center
+ * description: Webkit sass ui module absolute center.
+ * homepage: https://github.com/afeiship/wsui-absolute-center
+ * version: 1.0.0
+ * date: 2021-02-26 22:11:35
+ * license: MIT
+ */
+/*wsui-absolute-center Start*/
+.wsui-absolute-center-x, .wsui-absolute-center-xy, .wsui-absolute-center-y {
+  position: absolute;
+  margin: auto; }
+
+.wsui-absolute-center-x, .wsui-absolute-center-xy {
+  left: 0;
+  right: 0; }
+
+.wsui-absolute-center-xy, .wsui-absolute-center-y {
+  top: 0;
+  bottom: 0; }
+  .wsui-absolute-center-xy[data-pretty="true"], .wsui-absolute-center-y[data-pretty="true"] {
+    top: -25%; }
+
+/*wsui-absolute-center End*/
